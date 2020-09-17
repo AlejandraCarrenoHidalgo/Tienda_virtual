@@ -1,0 +1,29 @@
+body{
+    background-color: #bbdefb;
+}
+
+.icon{
+    font-size: 50px;
+}
+
+.navbar{
+    background-color: #351D4B;
+}
+
+
+.borrar{
+    color: red;
+}
+
+.icon1{
+    font-size: 25px;
+}
+
+
+footer {
+    background-color: #351D4B;
+}
+
+.letraB {
+    color: white;
+}
